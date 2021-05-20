@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![YehiaEzzeldeen](https://circleci.com/gh/YehiaEzzeldeen/project4-Nanodegree.svg?style=svg)](<LINK>)
 
 ## Project Overview
 
